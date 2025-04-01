@@ -14,14 +14,14 @@ I had the API Hashing problem in mind when I wrote this plugin. You could write 
 
 ## Example:
 - Let's say we want to rename the global variables at these adresses
-- 
+
   ![json_file](images/json_file.png)
 
 - Choose global variables in the prompt
-- 
+
   ![prompt](images/choices.png)
 
 - See the result in the Output in the bottom
-- 
+
   ![output](images/result.png)
 
