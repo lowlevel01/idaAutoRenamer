@@ -2,7 +2,7 @@
 An IDA plugin to rename global variables and functions based on JSON file.
 
 ## Main purpose:
-I had the API Hashing problem in mind when I wrote this plugin. You could write an x64dbg script to retrieve the addresses and the names and then use this plugin to rename them.
+I had the API Hashing problem in mind when I wrote this plugin. You could write an x64dbg script to retrieve the addresses and the names and then use this plugin to rename them in IDA.
 
 ## How to use:
 - Put the plugin in the /plugins folder.
