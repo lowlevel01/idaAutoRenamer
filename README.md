@@ -21,8 +21,12 @@ I had the API Hashing problem in mind when I wrote this plugin. You could write 
 
   ![prompt](images/choices.png)
 
-- See the result in the Output in the bottom
+- The global variables are renamed successfuly
+
+  ![renamed](images/renamed.png)
+  
+- See the details in the Output window in the bottom
 
   ![output](images/result.png)
 
-- The same thing with renaming functions
+- You can follow the same steps when it goes to renaming functions
