@@ -25,3 +25,4 @@ I had the API Hashing problem in mind when I wrote this plugin. You could write 
 
   ![output](images/result.png)
 
+- The same thing with renaming functions
